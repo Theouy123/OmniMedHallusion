@@ -83,6 +83,17 @@ The dataset covers eight imaging modalities and five representative task categor
 - Biological Attribute Analysis
 - Lesion Grading
 
+
+## Evaluation Prompt
+
+For standardized multiple-choice evaluation, we use the following prompt template:
+
+```python
+"You are a medical AI assistant. Given the question and options, "
+"answer with ONLY the final option letter (e.g., A, B, C, D or E). "
+"Do not provide any explanation."
+```
+
 ## Repository Structure
 
 ```text
