@@ -2,6 +2,8 @@
 
 > Beyond Correct Answers: OmniMedHallusion for Hallucination Analysis in Medical Vision-Language Models
 
+- 🤗 **Hugging Face Dataset**: [OuyangRuilong/OmniMedHallusion](https://huggingface.co/datasets/OuyangRuilong/OmniMedHallusion)
+
 ## Overview
 
 OmniMedHallusion is a dataset for hallucination analysis in medical vision-language models.
