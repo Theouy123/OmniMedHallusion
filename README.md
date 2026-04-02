@@ -6,7 +6,7 @@
 
 ## Overview
 
-OmniMedHallusion is a dataset for hallucination analysis in medical vision-language models.
+OmniMedHallusion is a dataset for hallucination analysis in large vision-language models.
 
 It contains two complementary subsets:
 
