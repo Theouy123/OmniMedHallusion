@@ -1,6 +1,6 @@
 # OmniMedHallusion
 
-> Beyond Correct Answers: OmniMedHallusion for Hallucination Analysis in Medical Vision-Language Models
+> OmniMedHallusion: A Dataset for Evaluating Medical Hallucination in Large Vision-Language Models
 
 - 🤗 **Hugging Face Dataset**: [OuyangRuilong/OmniMedHallusion](https://huggingface.co/datasets/OuyangRuilong/OmniMedHallusion)
 
@@ -66,22 +66,22 @@ The dataset covers eight imaging modalities and five representative task categor
 
 ### Imaging Modalities
 
-- MRI
-- Dermoscopy
-- Fundus Photography
-- Microscopy
-- Ultrasound
-- OCT
+- Magnetic Resonance Imaging (MRI)
+- Dermoscopy (Derm.)
+- Fundus Photography (Fundus)
+- Microscopy (Micro.)
+- Ultrasound (US)
+- Optical Coherence Tomography (OCT)
 - X-Ray
-- CT
+- Computed Tomography (CT)
 
 ### Task Categories
 
-- Disease Diagnosis
-- Anatomy Identification
-- Modality Recognition
-- Biological Attribute Analysis
-- Lesion Grading
+- Disease Diagnosis (DD)
+- Anatomy Identification (AI)
+- Modality Recognition (MR)
+- Biological Attribute Analysis (BAA)
+- Lesion Grading (LG)
 
 ## Repository Structure
 
