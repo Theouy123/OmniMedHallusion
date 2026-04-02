@@ -90,7 +90,5 @@ The dataset covers eight imaging modalities and five representative task categor
 ├── OMH-Clear/
 ├── OMH-Halluc/
 ├── assets/
-│   ├── figure1.png
-│   └── figure2.png
 ├── .gitignore
 └── compute_metric.ipynb
